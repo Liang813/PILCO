@@ -11,4 +11,5 @@ plt.xlabel('rad')
 plt.ylabel('mean of reward')
 plt.plot(left, height,label='ones')
 plt.legend()
-plt.show()
+
+print("生成的图片不能显示，你可以在本地跑这个代码，或者查看https://github.com/nrontsis/PILCO/issues/25，结果如图所示")
